@@ -1,5 +1,5 @@
 
-# Live 3D Reconstruction Demo
+# Live 3D Reconstruction Demos
 
 ## Description
 This project showcases real-time point cloud fusion of multiple RGB-D cameras using 2D marker based calibration.
@@ -7,7 +7,7 @@ This project showcases real-time point cloud fusion of multiple RGB-D cameras us
 ---
 
 ## Demos
-### Video 1: [Point Cloud Reconstruction Accuracy]
+### Video 1: [Point Cloud Reconstruction]
 The designed algorithm yielded a 90% reconstruction accuracy compared to manual scans.
 
 <div align="center">
