@@ -19,7 +19,7 @@ The designed algorithm yielded a 90% reconstruction accuracy compared to manual 
 https://github.com/user-attachments/assets/da45727c-75bd-45df-a75b-5b7e36bd02e7
 
 ### Video 2: [Live Reconstruction Demo]
-This demo showcases the reconstruction accuracy of the algorithm when deployed to live video. In this demo, two Intel Realsense L515 cameras were used.
+This demo showcases the reconstruction accuracy of the algorithm when deployed to live video. In this demo, two Intel Realsense L515 cameras were used. This application was developed in python using open3D rendering.
 
 https://github.com/user-attachments/assets/4f1ab538-7247-42a8-9e91-89a1bf5b31a4
 
