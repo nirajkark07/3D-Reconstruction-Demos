@@ -24,7 +24,7 @@ This demo showcases the reconstruction accuracy of the algorithm when deployed t
 https://github.com/user-attachments/assets/4f1ab538-7247-42a8-9e91-89a1bf5b31a4
 
 ### Video 3: [Camera Extrinsic Location]
-This demo shows the resulting camera extrinsics obtaind from the calibration. This demo was created using Unreal Engine 5, and displayed on the Varjo XR3 headset.
+This demo shows the resulting camera extrinsics obtained from the calibration. This demo was created using Unreal Engine 5, and displayed on the Varjo XR3 headset.
 
 https://github.com/user-attachments/assets/03099aa6-d8f5-4cc5-931c-8f19bc6fa4e2
 
