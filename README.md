@@ -16,16 +16,17 @@ The designed algorithm yielded a 90% reconstruction accuracy compared to manual 
   <img src="img2.png" alt="Color Image 2" width="45%" style="margin: 0 2%;" />
 </div>
 
-![Demo 1](PointCloudFusionDemo.mp4)
+https://github.com/user-attachments/assets/da45727c-75bd-45df-a75b-5b7e36bd02e7
 
 ### Video 2: [Live Reconstruction Demo]
 This demo showcases the reconstruction accuracy of the algorithm when deployed to live video. In this demo, two Intel Realsense L515 cameras were used.
 
-![Demo 2](MultiCameraFusionDemo.mp4)
+https://github.com/user-attachments/assets/4f1ab538-7247-42a8-9e91-89a1bf5b31a4
 
 ### Video 3: [Camera Extrinsic Location]
 This demo illustrates the resulting camera extrinsics obtaind from the calibration. This demo was created using Unreal Engine 5, and displayed on the Varjo XR3 headset.
-![Demo 3](XRCameraLocationDemo.mp4)
+
+https://github.com/user-attachments/assets/03099aa6-d8f5-4cc5-931c-8f19bc6fa4e2
 
 ---
 
